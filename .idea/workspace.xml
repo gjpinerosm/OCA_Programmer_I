@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be9c50f3-ce22-4f95-9fa3-f6635c5d3cdc" name="Default" comment="" />
+    <list default="true" id="be9c50f3-ce22-4f95-9fa3-f6635c5d3cdc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,6 +67,11 @@
             <path>
               <item name="OCA_Programmer_I" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA_Programmer_I" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA_Programmer_I" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA_Programmer_I" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA_Programmer_I" type="b2602c69:ProjectViewProjectNode" />
