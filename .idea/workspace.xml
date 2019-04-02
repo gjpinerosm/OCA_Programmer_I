@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be9c50f3-ce22-4f95-9fa3-f6635c5d3cdc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/University.java" afterDir="false" />
-    </list>
+    <list default="true" id="be9c50f3-ce22-4f95-9fa3-f6635c5d3cdc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,38 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="University.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/University.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/README.md">
+        <entry file="file://$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Interface/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+            <state relative-caret-position="29">
+              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -71,6 +40,7 @@
         <option value="$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/Person.java" />
         <option value="$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/University.java" />
         <option value="$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/README.md" />
+        <option value="$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Interface/README.md" />
       </list>
     </option>
   </component>
@@ -104,7 +74,21 @@
               <item name="OCA_Programmer_I" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA_Programmer_I" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Nonaccess_Modifiers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA_Programmer_I" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA_Programmer_I" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Nonaccess_Modifiers" type="462c0819:PsiDirectoryNode" />
               <item name="Abstract_Class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA_Programmer_I" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA_Programmer_I" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Nonaccess_Modifiers" type="462c0819:PsiDirectoryNode" />
+              <item name="Abstract_Interface" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,7 +136,7 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Messages" weight="0.32984293" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -160,10 +144,10 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.5801047" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986316" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986316" />
       <window_info id="Learn" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -183,17 +167,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -204,10 +181,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/README.md">
+    <entry file="file://$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Class/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
-          <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter_1/Nonaccess_Modifiers/Abstract_Interface/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
         </state>
       </provider>
     </entry>
