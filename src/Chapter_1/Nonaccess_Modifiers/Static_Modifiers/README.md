@@ -1,6 +1,6 @@
 # OVERVIEW
 
-In  this  code  example, emp1.bankVault, emp2.bankVault,  and Emp.bank-Vault all refer to the samestatic attribute: bankVault.
+In  this  code  example, *emp1.bankVault*, *emp2.bankVault*,  and *Emp.bank-Vault* all refer to the samestatic attribute: *bankVault*.
 
 # EXAM TIP
 
@@ -9,7 +9,9 @@ In  this  code  example, emp1.bankVault, emp2.bankVault,  and Emp.bank-Vault all
 
 # Example
 
+```
 class Emp {
     public static final int MIN_AGE = 20;
     static final int MAX_AGE = 70;
  }
+```
